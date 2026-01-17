@@ -157,6 +157,18 @@ a:hover {
   align-items: center;
 }
 
+.hero-badge {
+  display: inline-block;
+  background: linear-gradient(135deg, #dc2626, #b91c1c);
+  color: white;
+  padding: 8px 20px;
+  border-radius: 30px;
+  font-size: 0.95rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  letter-spacing: 0.05em;
+}
+
 .hero-title {
   font-size: 2.75rem;
   font-weight: 800;
